@@ -1,5 +1,5 @@
 :root { --primary: #7f8c8d; --accent: #3498db; --text: #333; }
-body { font-family: 'Segoe UI', sans-serif; margin: 0; color: var(--text); }
+body { font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, sans-serif; margin: 0; color: var(--text); }
 .navbar { background: var(--primary); color: white; padding: 1rem; display: flex; justify-con}
 .hero { text-align: center; padding: 4rem 1rem; background: #ecf0f1; }
 .container { max-width: 800px; margin: auto; padding: 2rem; }
